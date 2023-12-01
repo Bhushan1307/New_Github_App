@@ -1,0 +1,5 @@
+class Student{
+
+	private String student_name;
+	
+}
